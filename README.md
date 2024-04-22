@@ -8,20 +8,7 @@
 
 ![milva-bird](https://familiacodigozero.com.br/wp-content/uploads/2022/11/google-maps-01.jpg)
 
-- [Boilerplate Features](#Boilerplate-Features)	
-- [Structure](#Structure)
-	- [Assets](#Assets)
-	- [Components](#Components)
-	- [Helpers](#Helpers)
-	- [Hooks](#Hooks)
-	- [Modules](#Modules)
-	- [Providers](#Providers)
-	- [Routers](#Routers)
-	- [Screens](#Screens)
-	- [Utils](#Utils)
-- [Run in Dev Environment](#Run)
-- [Code Push](#Push)
-- [Run Expo Go](#ExpoGo)
+ 
 - [Expo Project Link](#ExpoProjectLink)
 
 <br>
@@ -29,22 +16,7 @@
 <a id="Boilerplate-Features"></a>
 ## Boilerplate Features:
 
-* Routing
-* Theme
-* Network
-* Local Storage
-* Redux
-* Provider example
-* Notifications
-* Dark Theme Support
-* Multi Language Support 
-* Folder Structure
-* TypeScript
-* Eslint 
-* Font
-* Splash
-* Code Push
-* Toast Message
+*
 
 <br>
 
